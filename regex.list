@@ -14,12 +14,3 @@
 ^telemetry[-.]
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
-.+(g00).+
-.*\.g[0-9]+\..*
-((^)|(.))metric.
-((^)|(.))telemetry.
-((^)|(.))analytic.
-((^)|(.))adchoice.
-((^)|(.))adsdk.
-((^)|(.))adserv.
-((^)|(.))tracking.
