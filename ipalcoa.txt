@@ -1,1 +1,5 @@
-
+total 36
+ 4 -rw-r--r-- 1 root staff  1070 Aug  8 10:49 LICENSE
+ 4 -rw-r--r-- 1 root staff     5 Aug 13 13:49 my-pihole-lists.txt
+12 -rwxr-xr-x 1 root staff  8409 Aug 13 14:29 pihole-cloudsync
+16 -rw-r--r-- 1 root staff 13515 Aug 13 12:30 README.md
