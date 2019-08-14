@@ -1,10 +1,1 @@
-total 32
-4 drwxr-xr-x  2 ftpuser ftpgroup 4096 Jul 25 08:49 FTP
-0 -rwxr-xr-x  1 pi      pi          0 Aug 14 10:50 ipaddress.txt
-4 drwxr-xr-x  3 root    root     4096 Aug  6 22:32 my-pihole-lists
-4 drwx------  3 pi      pi       4096 Jul 25 08:24 openvpn-ca
-4 drwxrwxrwx  2 root    root     4096 Aug  9 22:46 ovpns
-4 drwxr-xr-x  3 root    root     4096 Aug  6 22:31 pihole-cloudsync
-4 drwxr-xr-x 11 pi      pi       4096 Jul 30 18:59 pivpn-gui
-4 drwxr-xr-x  2 pi      pi       4096 Aug 14 10:14 projects
-4 -rw-r--r--  1 root    root     1847 Jul 25 09:16 udo systemctl status openvpn@server
+
