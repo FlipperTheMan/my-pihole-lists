@@ -1,10 +1,41 @@
-total 32
-4 drwxr-xr-x  2 ftpuser ftpgroup 4096 Jul 25 08:49 FTP
-0 -rwxrwxrwx  1 pi      pi          0 Aug 14 11:01 ipaddress.txt
-4 drwxr-xr-x  3 root    root     4096 Aug  6 22:32 my-pihole-lists
-4 drwx------  3 pi      pi       4096 Jul 25 08:24 openvpn-ca
-4 drwxrwxrwx  2 root    root     4096 Jul 26 18:26 ovpns
-4 drwxr-xr-x  3 root    root     4096 Aug  6 22:31 pihole-cloudsync
-4 drwxr-xr-x 11 pi      pi       4096 Jul 30 18:59 pivpn-gui
-4 drwxr-xr-x  2 pi      pi       4096 Aug 14 10:14 projects
-4 -rw-r--r--  1 root    root     1847 Jul 25 09:16 udo systemctl status openvpn@server
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <title>IP Echo Service</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="keywords" content="IP, What, IP, Address, External, What Is My IP">
+    <link rel="canonical" href="https://ipinfo.io/">
+    
+    <link href="style.css" rel="stylesheet" type="text/css">
+    
+</head>
+<body>
+
+<main>
+<div style="text-align: center; flex: 1; ">
+    <h1>Your IP is 75.139.2.236</h1>
+    <br>
+
+    If you're looking for your local IP address, then you probably need to visit <a href="/localip.html">this page</a>.<br>
+    On <a href="/extra">this page</a> you can find out what the server knows about you.<br>
+    <br>
+    Developers should click <a href="/developers.html">here</a>.
+
+    <br><br><br>
+
+    <!-- FB Button -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <div class="fb-like" data-href="http://ipecho.net/" data-send="true" data-layout="button_count" data-width="150" data-show-faces="false"></div>
+</div>
+</main>
+
+</body>
+</html>
