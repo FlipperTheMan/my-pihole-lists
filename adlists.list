@@ -10,7 +10,6 @@ https://mirror1.malwaredomains.com/files/justdomains
 http://sysctl.org/cameleon/hosts
 
 ##Zeustracker
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 
 ##Disconnect.me Tracking
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
@@ -64,7 +63,6 @@ https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 https://v.firebog.net/hosts/Shalla-mal.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
 https://www.squidblacklist.org/downloads/dg-malicious.acl
