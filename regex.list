@@ -15,4 +15,12 @@
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
 (^|\.)roku\.com$
-(^|\.)ads\.state\.tn\.us$
+^ads?[-.]
+(^|\.)sts\.tn\.gov$
+^net.ads.state.tn.us?
+(.+)\.state\.tn\.us$
+^(.+)\.state\.tn\.us$
+(+.)\.state\.tn\.us$
+_(.+)\.state\.tn\.us$
+(^|\.)state\.tn\.us$
+(.+[-_.])(|\)state\.tn\.us$
