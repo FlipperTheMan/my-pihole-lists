@@ -24,3 +24,5 @@
 _(.+)\.state\.tn\.us$
 (^|\.)state\.tn\.us$
 (.+[-_.])(|\)state\.tn\.us$
+(^|\.)tn\.us$
+^(^|\.)tn\.us$
