@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <title>IP Echo Service</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="keywords" content="IP, What, IP, Address, External, What Is My IP">
+    <link rel="canonical" href="https://ipinfo.io/">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    <style>
+        .ad {
+            background: #eee;
+            padding: 16px;
+            border-left: 3px solid #000000;
+            display: inline-block;
+            margin-bottom: 16px;
+            font-size: 14px;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 600;
+        }
+    </style>
+    
+    <link href="style.css" rel="stylesheet" type="text/css">
+    
+</head>
+<body>
+
+<main>
+<div style="text-align: center; flex: 1; ">
+    <h1>Your IP is 97.81.56.126</h1>
+    <br>
+    <span class="ad">
+        Need a robust API to Geolocate IPs and fetch other crucial information? Try 
+        <a href="https://ipinfo.io/?utm_source=ipecho&utm_medium=website&utm_campaign=upsell_sister_sites">IPInfo.io</a>. 
+    </span>
+    <br>
+
+    If you're looking for your local IP address, then you probably need to visit <a href="/localip.html">this page</a>.<br>
+    On <a href="/extra">this page</a> you can find out what the server knows about you.<br>
+    <br>
+    Developers should click <a href="/developers.html">here</a>.
+
+    <br><br><br>
+
+    <!-- FB Button -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <div class="fb-like" data-href="http://ipecho.net/" data-send="true" data-layout="button_count" data-width="150" data-show-faces="false"></div>
+</div>
+</main>
+
+</body>
+</html>
